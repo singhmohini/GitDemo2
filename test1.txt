@@ -1,0 +1,10 @@
+ Volume in drive H is New Volume
+ Volume Serial Number is 5E29-9559
+
+ Directory of H:\GitFolder
+
+03/25/2020  12:21 AM    <DIR>          .
+03/25/2020  12:21 AM    <DIR>          ..
+03/25/2020  12:21 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  332,757,147,648 bytes free
